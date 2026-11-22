@@ -11,8 +11,7 @@ export default function Credits() {
           "@FeeerLAT: Diseñador gráfico principal, diseñador principal de interfaces (UI / UX)\n\n" +
           "@Josepro9130: Aporte económico al proyecto, diseñador principal de sonido, diseñador secundario de interfaces (UI / UX)\n\n" +
           "@ElSxbag_GG: Diseñador secundario\n\n" +
-          "@DaNightMart2 (@NightN2): Desarrollador principal de la página web, programador principal, animador principal en Roblox y compositor principal.\n\n" +
-          "Nehuén R.: Compositor principal."
+          "@DaNightMart2 (@NightN2): Desarrollador principal de la página web, programador principal, animador principal en Roblox."
         }</p>
       </article>
     </div>
